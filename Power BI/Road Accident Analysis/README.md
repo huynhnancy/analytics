@@ -24,12 +24,12 @@ I have applied some techniques for this project such as:
 
 ## Result
 The project dashboard is well-designed and user-friendly with non-technical background users, as well as archives the goals to identify a better evidence-based approach to contribute to a safer road environment.
+It can help answer questions/concerns related to:
+	- Total Casualties with respect to vehicle type for Current Year
+	- Monthly trend showing a comparison of casualties for the Current Year and the Previous Year
+	- Casualties by Road Type for Current Year
+	- Current Year Casualties by Area and by Day/Night
+	- Total Casualties and Total Accidents by Location
 
 ## Authors
 Nancy Huynh (nhuynh.nancy@gmail.com)
-
-	- Total Casualties with respect to vehicle type for Current Year
-	- Monthly trend showing comparison of casualties for Current Year and Previous Year
-	- Casualties by Road Type for Current Year
-	- Current Year Casualties by Area and by Day/Night
-	- Total Casualties and Total Accident by Location
